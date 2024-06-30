@@ -1,5 +1,5 @@
 #!/bin/bash
-# grita.sh
+# grita-DebugPersonalizado.sh
 #
 # Mostra uma palavra ($TXT) em maisuculas e com exclamações 
 # Exemplo: foo -> !!!!!FOO!!!!!
