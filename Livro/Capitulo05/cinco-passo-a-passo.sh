@@ -1,5 +1,5 @@
 #!/bin/bash
-# cinco.sh
+# cinco-passo-a-passo.sh
 #
 # Conta até cinco :)
 
